@@ -1,5 +1,5 @@
 Arkadaşlarımla birlikte Nesneya dayalıa analiz ve tasarım dersi için unity ile yaptığımız oyun. 
-Oyunda sol tarafa basınca roketin çapı azalıyor ve sağ tarafa basınca da roketin çapı azalarak engellerden kaçmaya çalışıyorsunuz.
+Oyunda sol tarafa basınca roketin çapı azalıyor ve sağ tarafa basınca da roketin çapı artarak engellerden kaçmaya çalışıyorsunuz.
 Oyun gittikçe hızlanıyor.
 
 Hazırlayanlar:
